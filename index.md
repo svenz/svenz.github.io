@@ -16,3 +16,5 @@ He is formally referred to as Rick Sanchez C-137 by the Trans-Dimensional Counci
 
 > What, so everyone's supposed to sleep every single night now?
 
+<img src="https://upload.wikimedia.org/wikipedia/en/a/a6/Rick_Sanchez.png"/>
+
