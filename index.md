@@ -13,3 +13,6 @@ He is formally referred to as Rick Sanchez C-137 by the Trans-Dimensional Counci
 * nihilistic
 * pessimistic
 * sociopathic
+
+> What, so everyone's supposed to sleep every single night now?
+
